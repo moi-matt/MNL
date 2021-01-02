@@ -1,2 +1,2 @@
-# d-mo
-Ceci est la démo du projet
+#MNL
+Codage des méthodes de calcul vu en cours de "Méthode Numérique du Linéaire"
